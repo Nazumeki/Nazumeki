@@ -95,7 +95,6 @@ A dedicated **Full-Stack Developer** and **AI Agent Engineer**, I design and dev
             alt="GitHub Streak"
         />
     </picture>
-
     <!-- Activity Graph -->
     <picture>
         <source
@@ -117,7 +116,6 @@ A dedicated **Full-Stack Developer** and **AI Agent Engineer**, I design and dev
             alt="Activity Graph"
         />
     </picture>
-
     <!-- GitHub Stats & Top Languages -->
     <div
         style="
@@ -150,7 +148,6 @@ A dedicated **Full-Stack Developer** and **AI Agent Engineer**, I design and dev
                 alt="GitHub Stats"
             />
         </picture>
-
         <picture style="flex: 1; min-width: 300px; max-width: 380px">
             <source
                 media="(prefers-color-scheme: dark)"

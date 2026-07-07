@@ -65,17 +65,113 @@ A dedicated **Full-Stack Developer** and **AI Agent Engineer**, I design and dev
 ---
 
 ## 📊 GitHub Analytics
+<div
+    align="center"
+    style="
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 24px;
+    "
+>
+    <!-- Streak Stats -->
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="
+                https://github-readme-streak-stats.herokuapp.com/?user=Nazumeki&theme=tokyonight&hide_border=true&background=00000000&stroke=7aa2f7&ring=7dcfff&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7aa2f7&currStreakNum=bb9af7&sideNums=bb9af7&dates=a9b1d6
+            "
+        />
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="
+                https://github-readme-streak-stats.herokuapp.com/?user=Nazumeki&theme=tokyonight&hide_border=true&background=00000000&stroke=7aa2f7&ring=7dcfff&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7aa2f7&currStreakNum=bb9af7&sideNums=bb9af7&dates=363740
+            "
+        />
+        <img
+            width="100%"
+            style="max-width: 800px; height: auto"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Nazumeki&theme=tokyonight&hide_border=true&background=00000000&stroke=7aa2f7&ring=7dcfff&fire=f7768e&currStreakLabel=7aa2f7&sideLabels=7aa2f7&currStreakNum=bb9af7&sideNums=bb9af7&dates=a9b1d6"
+            alt="GitHub Streak"
+        />
+    </picture>
 
-<div align="center">
+    <!-- Activity Graph -->
+    <picture>
+        <source
+            media="(prefers-color-scheme: dark)"
+            srcset="
+                https://github-readme-activity-graph.vercel.app/graph?username=Nazumeki&theme=tokyo-night&hide_border=true&bg_color=00000000&title_color=7aa2f7&color=a9b1d6&line=7dcfff&point=bb9af7
+            "
+        />
+        <source
+            media="(prefers-color-scheme: light)"
+            srcset="
+                https://github-readme-activity-graph.vercel.app/graph?username=Nazumeki&theme=github-light&hide_border=true&bg_color=00000000&title_color=7aa2f7&color=a9b1d6&line=7dcfff&point=bb9af7
+            "
+        />
+        <img
+            width="100%"
+            style="max-width: 800px; height: auto"
+            src="https://github-readme-activity-graph.vercel.app/graph?username=Nazumeki&theme=tokyo-night&hide_border=true&bg_color=00000000&title_color=7aa2f7&color=a9b1d6&line=7dcfff&point=bb9af7"
+            alt="Activity Graph"
+        />
+    </picture>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazumeki&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+    <!-- GitHub Stats & Top Languages -->
+    <div
+        style="
+            display: flex;
+            justify-content: center;
+            align-items: stretch;
+            gap: 16px;
+            flex-wrap: wrap;
+            width: 100%;
+            max-width: 800px;
+        "
+    >
+        <picture style="flex: 1; min-width: 300px; max-width: 380px">
+            <source
+                media="(prefers-color-scheme: dark)"
+                srcset="
+                    https://github-stats-extended.vercel.app/api?username=Nazumeki&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000&border_radius=10&hide_border=true&title_color=7dcfff&icon_color=bb9af7&text_color=a9b1d6
+                "
+            />
+            <source
+                media="(prefers-color-scheme: light)"
+                srcset="
+                    https://github-stats-extended.vercel.app/api?username=Nazumeki&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000&border_radius=10&hide_border=true&title_color=7dcfff&icon_color=bb9af7&text_color=474959
+                "
+            />
+            <img
+                width="100%"
+                style="height: auto"
+                src="https://github-stats-extended.vercel.app/api?username=Nazumeki&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000&border_radius=10&hide_border=true&title_color=7dcfff&icon_color=bb9af7&text_color=a9b1d6"
+                alt="GitHub Stats"
+            />
+        </picture>
 
-<br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nazumeki&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FF6B6B" width="100%" alt="Activity Graph" />
-
+        <picture style="flex: 1; min-width: 300px; max-width: 380px">
+            <source
+                media="(prefers-color-scheme: dark)"
+                srcset="
+                    https://github-stats-extended.vercel.app/api/top-langs/?username=Nazumeki&layout=donut&theme=tokyonight&bg_color=00000000&border_radius=10&hide_border=true&title_color=7dcfff&text_color=a9b1d6
+                "
+            />
+            <source
+                media="(prefers-color-scheme: light)"
+                srcset="
+                    https://github-stats-extended.vercel.app/api/top-langs/?username=Nazumeki&layout=donut&theme=tokyonight&bg_color=00000000&border_radius=10&hide_border=true&title_color=7dcfff&text_color=474959
+                "
+            />
+            <img
+                width="100%"
+                style="height: auto"
+                src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nazumeki&layout=donut&theme=tokyonight&bg_color=00000000&border_radius=10&hide_border=true&title_color=7dcfff&text_color=a9b1d6"
+                alt="Top Languages"
+            />
+        </picture>
+    </div>
 </div>
 
 ---
